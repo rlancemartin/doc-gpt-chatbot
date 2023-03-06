@@ -1,0 +1,7 @@
+openai
+langchain==0.0.102rc0
+pypdf
+faiss-cpu
+streamlit
+streamlit_chat
+watchdog
